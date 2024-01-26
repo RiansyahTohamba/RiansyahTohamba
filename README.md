@@ -2,6 +2,7 @@
 
 
 - Check <a href="https://riansyahtohamba.medium.com/"> my blog </a>
+I was a Computer Science Lecturer at Halu Oleo University.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiansyahTohamba&count_private=true)
 <!--
